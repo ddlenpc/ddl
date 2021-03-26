@@ -2,7 +2,7 @@
 
 Bonjour à tous !
 
-Cette [page GitHub](https://hm-ai.github.io/Practical-Implementations-ENPC/) contient les colabs des TDs pour le cours *décision dans l'incertain* 
+Cette [page GitHub](https://ddlenpc.github.io/ddl/) contient les colabs des TDs pour le cours *décision dans l'incertain* 
 
 
 
