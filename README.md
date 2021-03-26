@@ -1,37 +1,18 @@
-## Welcome to GitHub Pages
+# Présentation
 
-You can use the [editor on GitHub](https://github.com/ddlenpc/ddl/edit/gh-pages/README.md) to maintain and preview the content for your website in Markdown files.
+Bonjour à tous !
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Cette [page GitHub](https://hm-ai.github.io/Practical-Implementations-ENPC/) contient les colabs des TDs pour le cours *décision dans l'incertain* 
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
+# Syllabus
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/ddlenpc/ddl/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+| Date  | Sujet | Code | Solution | 
+|----------- | ----------- | ----------- | ----------- | 
+|Vendredi 9 avril | Un exemple simple de problème de décision |  |  |
+|Vendredi 23 avril| La théorie du portefeuille de Markowitz | | |
+|Vendredi 7 mai | Test d'équirépartition, Calcul de prix | | | 
+|Vendredi 14 mai | Le problème du vendeur de journaux | | |
+|Vendredi 21 mai  | Options Américaines, Recrutement optimal | | |
+|Vendredi 28 mai | Le problème dynamique du vendeur de journaux | | |
